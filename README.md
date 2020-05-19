@@ -13,3 +13,8 @@ This is a network scanning tool that relies on the arp protocol and not the TCP/
 ### Example Output:
 >![Example](example.jpg)
 
+#### OS Support:
+This application is limited by the libraries that support it. 
+1. Linux
+2. MacOS
+3. BSD
