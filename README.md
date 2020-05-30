@@ -27,3 +27,11 @@ This application is limited by the libraries that support it.
 1. Linux
 2. MacOS
 3. BSD
+
+# Homepage / Contact
+My homepage and contact info. 
+
+| Type  | Data
+| ----- | --------
+| Homepage | <https://matthewrogers.org> |
+| XMPP | RamboRogers@trashserver.net |
