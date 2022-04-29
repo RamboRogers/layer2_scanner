@@ -20,10 +20,11 @@ go install github.com/RamboRogers/layer2_scanner/layer2_scanner.go@latest
 ```
 
 ### Usage Examples:
+As root or a user with capabilities.
 > `./layer2_scanner 192.168.1.0/24`
 
-
-> `./layer2_scanner 192.168.0.1/24`
+On newer Macs or Linux you need to escalate.
+> `sudo layer2_scanner 192.168.0.1/24`
 
 ### Example Output:
 >![Example](example.jpg)
