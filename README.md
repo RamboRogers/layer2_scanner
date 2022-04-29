@@ -40,4 +40,4 @@ My homepage and contact info.
 | Type  | Data
 | ----- | --------
 | Homepage | <https://matthewrogers.org> |
-| XMPP | RamboRogers@trashserver.net |
+
