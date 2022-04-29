@@ -13,12 +13,6 @@ If you feel so inclined as to support my projects. Here's your chance! Thanks
 
 ---
 
-**Install**
-
-```
-go install github.com/RamboRogers/layer2_scanner/layer2_scanner.go@latest
-```
-
 ### Usage Examples:
 > `./layer2_scanner 192.168.1.0/24`
 

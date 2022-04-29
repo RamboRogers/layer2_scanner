@@ -49,11 +49,7 @@ func main() {
 
 		arping.SetTimeout(100 * time.Millisecond)
 
-		macAddress, _, pingError := arping.Ping(ipAddress)
-		fmt.Println("loop check")
-		if len(pingError.Error()) > 0 {
-			fmt.Println((pingError.Error()))
-		}
+		macAddress, _, _ := arping.Ping(ipAddress)
 
 		if len(macAddress) > 0 {
 			fmt.Println(ipAddress, macAddress)
